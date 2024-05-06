@@ -1,7 +1,7 @@
-### Hi there 👋, I am Pratik Sonthaliya
-[![GitHub pratiksonthaliya](https://img.shields.io/github/followers/pratiksonthaliya?label=follow&style=social)](https://github.com/pratiksonthaliya)
-[![Linkedin: pratiksonthaliya](https://img.shields.io/badge/-Pratik%20Sonthaliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonthaliya/)](https://www.linkedin.com/in/pratiksonthaliya/)
-[![Twitter: SonthaliyaP](https://img.shields.io/twitter/follow/SonthaliyaP?style=social)](https://twitter.com/SonthaliyaP)
+### Hi there 👋, I am Sethu Madhav
+[![GitHub Sethumadhav24](https://github.com/Sethumadhav24)
+[![Linkedin: Sethu Madhav]([https://img.shields.io/badge/-Pratik%20Sonthaliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonthaliya/)](https://www.linkedin.com/in/pratiksonthaliya/](https://www.linkedin.com/in/sethumadhav/))
+[![Twitter: sethumadhav2467](https://twitter.com/sethumadhav2467)
   
 I am a passionate Software Developer with expertise in the Web Development space. 
 
